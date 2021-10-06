@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning Data Structures and Algorithms.
 
-- 🤝 Looking forward to collaborate on OpenSource Projects.
+- 🤝 Looking forward to collaborating on OpenSource Projects.
 
 - ⚡ I love to learn new things and solve problems
 
