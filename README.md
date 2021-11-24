@@ -4,13 +4,11 @@
 
 ## About Me:-
 
-- 📚 I'm a student currently studying in grade 12th.
-
 - 🌱 I’m currently learning Data Structures and Algorithms.
 
 - 🤝 Looking forward to collaborating on OpenSource Projects.
 
-- ⚡ I love to learn new things and solve problems
+- ⚒ Purple Script 
 
 ### Languages and Tools:
 
