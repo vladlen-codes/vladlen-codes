@@ -26,3 +26,5 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=Vlad2530&count_private=true&show_icons=true&theme=dark)
 
+![Chart not found](https://raw.githubusercontent.com/Vlad2530/Vlad2530master/charts/bar_graph.png) 
+
