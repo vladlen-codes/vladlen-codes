@@ -28,3 +28,4 @@
 
 ![Chart not found](https://raw.githubusercontent.com/Vlad2530/Vlad2530master/charts/bar_graph.png) 
 
+![](./github-metrics.svg)
