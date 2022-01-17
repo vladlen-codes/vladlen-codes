@@ -2,8 +2,6 @@
 
 <img alt='Pronouns' src='https://img.shields.io/badge/Pronouns-he%2Fhim-blue' />
 
-<hr />
-
 ## About Me:-
 
 - 🌱 I’m currently learning Java Script.
