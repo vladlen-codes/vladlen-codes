@@ -2,6 +2,15 @@
 
 <img alt='Pronouns' src='https://img.shields.io/badge/Pronouns-he%2Fhim-blue' /> <img alt='Discord' src='https://img.shields.io/badge/Discord-print(%22Vlad%22)%237777-brightgreen' />
 
+<div align='center'>
+  <div align='center'>
+    <img
+      src='https://discord.com/channels/@me/852924645748899921/932579414242381824'
+      width='138'
+      height='138'
+    />
+  </div>
+
 ## About Me:-
 
 - 🌱 I’m currently learning Java Script.
