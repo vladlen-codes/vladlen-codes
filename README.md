@@ -24,3 +24,4 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=Vlad2530&count_private=true&show_icons=true&theme=uwu)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vlad2530&layout=compact&theme=gruvbox)
