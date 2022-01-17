@@ -6,7 +6,7 @@
   <div align='Left'>
     <img
       src='https://media.discordapp.net/attachments/852924645748899921/932579413181214780/Ry6p.gif'
-      width='200'
+      width='300'
       height='300'
     />
   </div>
