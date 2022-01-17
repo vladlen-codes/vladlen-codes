@@ -21,7 +21,6 @@
 <img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/css3.svg" />
 
 <br />
-<hr />
 
 <h2>My Github statistics</h2>
 
