@@ -14,9 +14,9 @@
 <img align="left" alt="Android studio " width="26px" src="https://sdtimes.com/wp-content/uploads/2021/05/Untitled-10.png" />
 <img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="HTML" width="26px" src="https://cdn.icon-icons.com/icons2/1488/PNG/512/5352-html5_102567.png" />
-<img align="left" alt="CSS" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" />
+<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/css3.svg" />
 
-
+<
 <h2>My Github statistics</h2>
 
 ![](https://github-readme-stats.vercel.app/api?username=Vlad2530&count_private=true&show_icons=true&theme=uwu)
