@@ -1,6 +1,6 @@
 ### Hi there, I'm Vlad <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-<a href="#"><img width="100%" height="auto" src="https://i.gifer.com/Ry6p.gif/></a>
+<a href="#"><img width="100%" height="auto" src="https://github-readme-stats.vercel.app/api?username=Vlad2530&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515/></a>
 
 ## About Me:-
 
