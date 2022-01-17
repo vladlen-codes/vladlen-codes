@@ -18,6 +18,6 @@
 
 </a>
 <a href="https://github.com/Vlad2530/Vlad2530">
- <img align="" src="https://github-readme-stats.vercel.app/api?username=Vlad2530&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515/></a>" />
+ <img align="left" src="https://github-readme-stats.vercel.app/api?username=Vlad2530&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515/></a>" />
 </a>
 
