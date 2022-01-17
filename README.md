@@ -25,3 +25,5 @@
 <h2>My Github statistics</h2>
 
 ![](https://github-readme-stats.vercel.app/api?username=Vlad2530&count_private=true&show_icons=true&theme=dark)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=auguwu&layout=compact&theme=dark)
