@@ -34,8 +34,3 @@
 <h2>My Github statistics</h2>
 
 ![](https://github-readme-stats.vercel.app/api?username=Vlad2530&count_private=true&show_icons=true&theme=dark)
-
-<h2>Top language</h2>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vlad2530&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  
