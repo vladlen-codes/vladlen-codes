@@ -17,7 +17,7 @@
 
 - 🤝 Looking forward to collaborating on OpenSource Projects.
 
-- ⚒ Purple Script 
+- ⚒ Lets work for a better tomorrow! 
 
 <hr />
 
