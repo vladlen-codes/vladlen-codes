@@ -17,7 +17,7 @@
 
 - 🤝 Looking forward to collaborating on OpenSource Projects.
 
-- ⚒ Lets work for a better tomorrow! 
+- ⚒ Working for a better tomorrow! 
 
 <hr />
 
