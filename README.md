@@ -34,3 +34,7 @@
 <h2>My Github statistics</h2>
 
 ![](https://github-readme-stats.vercel.app/api?username=Vlad2530&count_private=true&show_icons=true&theme=dark)
+
+##### Spotify
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31imgfuzjv3u6rubkqyax3jnm634&cover_image=true&theme=novatorem&bar_color=4e5eb1&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31imgfuzjv3u6rubkqyax3jnm634&redirect=true)
+
