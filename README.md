@@ -34,9 +34,3 @@
 <h2>My Github statistics</h2>
 
 ![](https://github-readme-stats.vercel.app/api?username=Vlad2530&count_private=true&show_icons=true&theme=dark)
-
-<div align="center">
-  <a href="https://status.vlad/spotify?open">
-    <img src="https://status.vlad/spotify" width="256" height="64" alt="Spotify Now Playing">
-  </a>
-</div>
