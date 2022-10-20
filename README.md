@@ -13,7 +13,7 @@
 
 ## About Me:-
 
-- 🌱 I’m currently learning Java Script.
+- 🌱 I’m currently learning C++.
 
 - 🤝 Looking forward to collaborating on OpenSource Projects.
 
