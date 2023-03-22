@@ -1,4 +1,4 @@
-### Hi there, I'm [Vlad!](https://github.com/Vlad2530) 👋🏻
+### Hello there, I'm [Vlad!](https://github.com/Vlad2530) 👋🏻
 
 <img alt='Pronouns' src='https://img.shields.io/badge/Pronouns-he%2Fhim-blue' /> <img alt='Discord' src='https://img.shields.io/badge/Discord-print(%22Vlad%22)%235758-brightgreen' />
 
@@ -27,6 +27,7 @@
 <img align="left" alt="Android studio " width="26px" src="https://sdtimes.com/wp-content/uploads/2021/05/Untitled-10.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/react.svg" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/python.svg" />
+<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/.svg" />
 <img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/html5.svg" />
 <img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/css3.svg" />
 <br />
