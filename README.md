@@ -27,7 +27,6 @@
 <img align="left" alt="Android studio " width="26px" src="https://sdtimes.com/wp-content/uploads/2021/05/Untitled-10.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/react.svg" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/python.svg" />
-<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/.svg" />
 <img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/html5.svg" />
 <img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/css3.svg" />
 <br />
