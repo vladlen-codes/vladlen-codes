@@ -28,6 +28,7 @@
 <img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/python.svg" />
 <img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/html5.svg" />
 <img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/css3.svg" />
+<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/react.svg" />
 
 <br />
 
