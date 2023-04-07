@@ -17,6 +17,8 @@
 
 - 🤝 Looking forward to collaborating on OpenSource Projects.
 
+- 💜 Currently working on a mental health project.
+
 - ⚒ Working for a better tomorrow! 
 
 <hr />
