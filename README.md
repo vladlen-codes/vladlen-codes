@@ -27,10 +27,10 @@
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Android studio " width="26px" src="https://sdtimes.com/wp-content/uploads/2021/05/Untitled-10.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/react.svg" />
+<img align="left" alt="React" width="26px" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/reactjs/reactjs-ar21.svg" />
 <img align="left" alt="Python" width="26px" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" />
-<img align="left" alt="HTML" width="26px" src="https://commons.m.wikimedia.org/wiki/File:CSS3_and_HTML5_logos_and_wordmarks.svg#/media/File%3AHTML5_Badge.svg" />
-<img align="left" alt="CSS" width="26px" src="https://commons.m.wikimedia.org/wiki/File:CSS3_and_HTML5_logos_and_wordmarks.svg#/media/File%3ACSS3_logo.svg" />
+<img align="left" alt="HTML" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/1280px-HTML5_Badge.svg.png" />
+<img align="left" alt="CSS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/1280px-CSS3_logo.svg.png" />
 <br />
 
 <h2>My Github statistics</h2>
