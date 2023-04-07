@@ -29,8 +29,8 @@
 <img align="left" alt="Android studio " width="26px" src="https://sdtimes.com/wp-content/uploads/2021/05/Untitled-10.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/react.svg" />
 <img align="left" alt="Python" width="26px" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" />
-<img align="left" alt="HTML" width="26px" src="https://www.w3.org/html/logo/downloads/HTML5_Logo.svg" />
-<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/css3.svg" />
+<img align="left" alt="HTML" width="26px" src="https://commons.m.wikimedia.org/wiki/File:CSS3_and_HTML5_logos_and_wordmarks.svg#/media/File%3AHTML5_Badge.svg" />
+<img align="left" alt="CSS" width="26px" src="https://commons.m.wikimedia.org/wiki/File:CSS3_and_HTML5_logos_and_wordmarks.svg#/media/File%3ACSS3_logo.svg" />
 <br />
 
 <h2>My Github statistics</h2>
