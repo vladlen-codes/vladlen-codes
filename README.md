@@ -13,7 +13,7 @@
 
 ## About Me:-
 
-- 🌱 I’m currently learning C++.
+- 🌱 I’m currently learning C.
 
 - 🤝 Looking forward to collaborating on OpenSource Projects.
 
