@@ -35,4 +35,4 @@
 
 <h2>My Github statistics</h2>
 
-![](https://github-readme-stats.vercel.app/api?username=thiscouldbevlad&count_private=true&show_icons=true&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=VladlenCodes&count_private=true&show_icons=true&theme=dark)
