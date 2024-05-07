@@ -10,7 +10,7 @@ I'm a developer based in India, and I'm passionate about building experiences in
 **Backend Development:** `Firebase` `SQL` `MongoDB`<br>
 **Languages:** `Python` `C` `JavaScript` `R`<br>
 
-## About Me:-
+## ✨ About Me
 
 - 🌱 I’m currently learning C.
 
