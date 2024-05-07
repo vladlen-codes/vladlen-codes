@@ -4,7 +4,7 @@
 
 I'm a developer based in India, and I'm passionate about building experiences in the digital realm.
 
-### ✨ About Me
+<h3>✨ About Me<</h3>
 
 - 🌱 I'm pursuing my undergraduate degree in computer science and engineering.
 
