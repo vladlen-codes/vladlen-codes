@@ -22,7 +22,7 @@ I'm a developer based in India, and I'm passionate about building experiences in
 **Backend Development:** `Firebase` `SQL` `MongoDB`<br>
 **Languages:** `Python` `C` `JavaScript` `R` `Dart`<br>
 
-## 💖 Fun Facts
+## 🚩 Fun Facts
 - As a child, I always aspired to be a doctor, which is why I have a deep interest in the medical field.
 
 <h2>Github Statistics</h2>
