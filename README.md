@@ -4,26 +4,23 @@
 
 I'm a developer based in India, and I'm passionate about building experiences in the digital realm.
 
+### ✨ About Me
+
+- 🌱 I'm pursuing my undergraduate degree in computer science and engineering.
+
+- 💜 I love writing code in Python, and building fun Projects.
+
+- 👨🏻‍💻 I'm currently in the process of learning C++.
+
+- 🤝 Looking forward to collaborating on OpenSource Projects.
+
+- ⚒ Working for a better tomorrow! 
+
 ## 📦 Tech Stack
 **Frontend Development:** `HTML` `CSS` `React` `Flutter` `Reat Native`<br>
 **Version Control:** `Git` `GitLab`<br>
 **Backend Development:** `Firebase` `SQL` `MongoDB`<br>
 **Languages:** `Python` `C` `JavaScript` `R`<br>
-
-### ✨ About Me
-
-- 🌱 I’m currently learning C.
-
-- 🤝 Looking forward to collaborating on OpenSource Projects.
-
-- 💜 Currently working on a mental health project.
-
-- ⚒ Working for a better tomorrow! 
-
-<hr />
-
-
-
 
 <h2>My Github statistics</h2>
 
