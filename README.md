@@ -1,6 +1,6 @@
 ### Hello there, I'm [Vlad!](https://github.com/Vlad2530) 👋🏻
 
-<img alt='Pronouns' src='https://img.shields.io/badge/Pronouns-he%2Fhim-blue' /> <img alt='Discord' src='https://img.shields.io/badge/Discord-print(%22Vlad%22)%235758-brightgreen' />
+<img alt='Pronouns' src='https://img.shields.io/badge/Pronouns-he%2Fhim-blue' /> <img alt='Discord' src='https://img.shields.io/badge/Discord-vladlen.codes-brightgreen' />
 
 <div align='Left'>
   <div align='Left'>
