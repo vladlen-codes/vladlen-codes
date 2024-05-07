@@ -25,6 +25,9 @@ I'm a developer based in India, and I'm passionate about building experiences in
 ## 📌 Fun Facts
 - As a child, I always aspired to be a doctor, which is why I have a deep interest in the medical field apart from computer science.
 
+## 📫 Contact
+Coming Soon...
+
 <h2>Github Statistics</h2>
 
 ![](https://github-readme-stats.vercel.app/api?username=VladlenCodes&count_private=true&show_icons=true&theme=dark)
