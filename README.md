@@ -22,6 +22,6 @@ I'm a developer based in India, and I'm passionate about building experiences in
 **Backend Development:** `Firebase` `SQL` `MongoDB`<br>
 **Languages:** `Python` `C` `JavaScript` `R`<br>
 
-<h2>My Github statistics</h2>
+<h2>Github Statistics</h2>
 
 ![](https://github-readme-stats.vercel.app/api?username=VladlenCodes&count_private=true&show_icons=true&theme=dark)
