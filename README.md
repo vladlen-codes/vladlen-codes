@@ -4,7 +4,7 @@
 
 I'm a developer based in India, and I'm passionate about building experiences in the digital realm.
 
-### 📦 Tech Stack
+## 📦 Tech Stack
 **Frontend Development:** `HTML` `CSS` `React` `Flutter` `Reat Native`<br>
 **Version Control:** `Git` `GitLab`<br>
 **Backend Development:** `Firebase` `SQL` `MongoDB`<br>
