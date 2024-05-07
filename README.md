@@ -2,6 +2,8 @@
 
 <img alt='Pronouns' src='https://img.shields.io/badge/Pronouns-he%2Fhim-blue' /> <img alt='Discord' src='https://img.shields.io/badge/Discord-vladlen.codes-brightgreen' />
 
+I'm a developer based in India, and I'm passionate about building experiences in the digital realm.
+
 <div align='Left'>
   <div align='Left'>
     <img
