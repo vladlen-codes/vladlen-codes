@@ -1,4 +1,4 @@
-### Hello there, I'm [Vladlen!](https://github.com/vladlen.codes) 👋🏻
+### Hello there, I'm [Vladlen!](https://github.com/vladlen.codes) wave.gif
 
 <img alt='Pronouns' src='https://img.shields.io/badge/Pronouns-he%2Fhim-blue' /> <img alt='Discord' src='https://img.shields.io/badge/Discord-vladlen.codes-brightgreen' />
 
