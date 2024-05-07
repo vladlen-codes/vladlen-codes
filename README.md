@@ -1,10 +1,10 @@
-### Hey there, I'm [Vladlen!](https://github.com/vladlen.codes) <img width="25px" src=assets/vlad_waves.gif>
+## Hey there, I'm [Vladlen!](https://github.com/vladlen.codes) <img width="25px" src=assets/vlad_waves.gif>
 
 <img alt='Pronouns' src='https://img.shields.io/badge/Pronouns-he%2Fhim-blue' /> <img alt='Discord' src='https://img.shields.io/badge/Discord-vladlen.codes-brightgreen' />
 
 I'm a developer based in India, and I'm passionate about building experiences in the digital realm.
 
-## ✨ About Me
+### ✨ About Me
 
 - 🌱 I'm pursuing my undergraduate degree in computer science and engineering.
 
