@@ -4,7 +4,7 @@
 
 I'm a developer based in India, and I'm passionate about building experiences in the digital realm.
 
-### 📦 Languages and Tools
+### 📦 Tech Stack
 
 ## About Me:-
 
