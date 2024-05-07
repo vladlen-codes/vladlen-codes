@@ -23,7 +23,7 @@ I'm a developer based in India, and I'm passionate about building experiences in
 **Languages:** `Python` `C` `JavaScript` `R` `Dart`<br>
 
 ## 📌 Fun Facts
-- As a child, I always aspired to be a doctor, which is why I have a deep interest in the medical field.
+- As a child, I always aspired to be a doctor, which is why I have a deep interest in the medical field apart from computer science.
 
 <h2>Github Statistics</h2>
 
