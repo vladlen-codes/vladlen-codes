@@ -31,5 +31,3 @@ Coming Soon...
 <h2>Github Statistics</h2>
 
 ![](https://github-readme-stats.vercel.app/api?username=vladlen-codes&count_private=true&show_icons=true&theme=dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladlen-codes)](https://github.com/vladlen-codes/github-readme-stats))]
