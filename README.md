@@ -30,4 +30,4 @@ Coming Soon...
 
 <h2>Github Statistics</h2>
 
-![](https://github-readme-stats.vercel.app/api?username=VladlenCodes&count_private=true&show_icons=true&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=vladlen-codes&count_private=true&show_icons=true&theme=dark)
