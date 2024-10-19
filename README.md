@@ -1,6 +1,6 @@
 ## Hey there, I'm [Vladlen!](https://github.com/vladlen.codes) <img width="25px" src=assets/vlad_waves.gif>
 
-[![GitHub Badge](https://img.shields.io/badge/GitHub-Follow-lightgrey)](https://github.com/nikhilhalambi)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-Follow-lightgrey)](https://github.com/vladlen-codes)
 <img alt='Pronouns' src='https://img.shields.io/badge/Pronouns-he%2Fhim-blue' /> <img alt='Discord' src='https://img.shields.io/badge/Discord-vladlen.codes-brightgreen' /> <img alt='Open-Source' src='https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red' />
 
 I'm a developer based in India, and I'm passionate about building experiences in the digital realm.
