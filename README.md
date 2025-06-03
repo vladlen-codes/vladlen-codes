@@ -32,8 +32,10 @@ I'm a developer based in India, and I'm passionate about building experiences in
 <h2>Github Statistics</h2>
 
 <p align="center">
-  <img height="180em" src="https://camo.githubusercontent.com/a25d7204defe1e00abe1c3c1acc473926bfb76c7b41d4b1316ec4e2a55ad10a7/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d766c61646c656e2d636f64657326636f756e745f707269766174653d747275652673686f775f69636f6e733d74727565267468656d653d746f6b796f6e6967687426696e636c7564655f616c6c5f636f6d6d6974733d74727565" alt="Vladlen's GitHub stats" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vladlen-codes&theme=tokyonight" alt="Vladlen's GitHub streak" />
+  <a href="https://github.com/vladlen-codes"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github"/></a>
+  <a href="mailto:vladlen.codes@email.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 ---
 
