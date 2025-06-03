@@ -31,7 +31,7 @@ I'm a developer based in India, and I'm passionate about building experiences in
 
 <h2>Github Statistics</h2>
 
-![](https://github-readme-stats.vercel.app/api?username=vladlen-codes&count_private=true&show_icons=true&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=vladlen-codes&count_private=true&show_icons=true&theme=light)
 
 
 ---
