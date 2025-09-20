@@ -27,7 +27,7 @@ I'm a developer based in India, and I'm passionate about building experiences in
 - As a child, I always aspired to be a doctor, which is why I have a deep interest in the medical field apart from computer science.
 
 ## 📫 Contact
-- Email: [vladlen.codes@email.com](mailto:vladlen.codes.com)
+- Email: [vladlen.codes@gmail.com](mailto:vladlen.codes@gmail.com)
 
 <h2>Github Statistics</h2>
 
