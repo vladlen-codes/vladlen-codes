@@ -9,7 +9,7 @@ I'm a developer based in India, and I'm passionate about building experiences in
 
 - 🌱 I'm pursuing my undergraduate degree in computer science and engineering.
 
-- 💜 I love writing code in Python, and building fun Projects.
+- 💜 I love writing code in Python, Swift, and building fun Projects.
 
 - 👨🏻‍💻 I'm currently in the process of building an impactful application.
 
