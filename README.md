@@ -18,10 +18,10 @@ I'm a developer based in India, and I'm passionate about building experiences in
 - ⚒ Working for a better tomorrow! 
 
 ## 📦 Tech Stack
-**Frontend Development:** `HTML` `CSS` `React` `Flutter` `Reat Native` `Swift` `C++` `Java`<br>
+**Frontend Development:** `HTML` `CSS` `React` `Flutter` `Reat Native` `Swift`<br>
 **Version Control:** `Git` `GitLab`<br>
 **Backend Development:** `Firebase` `SQL` `MongoDB`<br>
-**Languages:** `Python` `C` `JavaScript` `R` `Dart`<br>
+**Languages:** `Python` `C` `JavaScript` `R` `Dart` `C++` `Java`<br>
 
 ## 📌 Fun Facts
 - As a child, I always aspired to be a doctor, which is why I have a deep interest in the medical field apart from computer science.
