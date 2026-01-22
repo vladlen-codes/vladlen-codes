@@ -11,14 +11,14 @@ I'm a developer based in India, and I'm passionate about building experiences in
 
 - 💜 I love writing code in Python, and building fun Projects.
 
-- 👨🏻‍💻 I'm currently in the process of learning C++.
+- 👨🏻‍💻 I'm currently in the process of building an impactful application.
 
 - 🤝 Looking forward to collaborating on OpenSource Projects.
 
 - ⚒ Working for a better tomorrow! 
 
 ## 📦 Tech Stack
-**Frontend Development:** `HTML` `CSS` `React` `Flutter` `Reat Native` `Swift`<br>
+**Frontend Development:** `HTML` `CSS` `React` `Flutter` `Reat Native` `Swift` `C++` `Java`<br>
 **Version Control:** `Git` `GitLab`<br>
 **Backend Development:** `Firebase` `SQL` `MongoDB`<br>
 **Languages:** `Python` `C` `JavaScript` `R` `Dart`<br>
