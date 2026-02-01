@@ -32,7 +32,7 @@ I'm a developer based in India, and I'm passionate about building experiences in
 <h2>Github Statistics</h2>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vladlen-codes&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Vladlen's GitHub stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vladlen-codes&count_private=true&show_icons=true&theme=dark&include_all_commits=true" alt="Vladlen's GitHub stats" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vladlen-codes&theme=tokyonight" alt="Vladlen's GitHub streak" />
 </p>
 
