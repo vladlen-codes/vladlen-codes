@@ -34,7 +34,6 @@ I'm a developer based in India, and I'm passionate about building experiences in
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vladlen-codes&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Vladlen's GitHub stats" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vladlen-codes&theme=tokyonight" alt="Vladlen's GitHub streak" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vladlen-codes&theme=react-dark&bg_color=0d1117&color=7aa2f7&line=29ABE2&point=bb9af7&hide_border=true&area=true" width="95%"/>
 </p>
 
 ---
