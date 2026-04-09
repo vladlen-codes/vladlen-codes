@@ -11,7 +11,7 @@ I'm a developer based in India, and I'm passionate about building experiences in
 
 - 💜 I love writing code in Python, Swift, and building fun Projects.
 
-- 👨🏻‍💻 I'm currently in the process of building an impactful application.
+- 👨🏻‍💻 I'm currently in the process of building a security layer for AI.
 
 - 🤝 Looking forward to collaborating on OpenSource Projects.
 
